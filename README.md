@@ -89,7 +89,7 @@ Allow you to check and prevent value to be inputed.
 ```jsx
 /**
  * @param {String} previous the previous text in the masked field.
- * @param {String} next the next text that will be setted to field.
+ * @param {String} next the next text that will be set to the masked field.
  * @return {Boolean} return true if must accept the value.
 */
 checkText(previous, next) {
